@@ -1,9 +1,9 @@
 # Meme Sharing App
 
 The Meme Sharing App is an Android application that allows users to browse and share funny memes with their friends and followers. The app fetches random memes from an API and provides features for sharing them via various platforms.
-<p align="center">
-<img src="https://github.com/ratnesh-maurya/Meme-App/assets/85143283/0f4394e7-1d12-4393-b6c2-ca947cf2ee58-resized.png" alt="Screenshot" width="150" height="300"/>
- </p>
+<div align="center">
+    <img src="https://github.com/ratnesh-maurya/Meme-App/assets/85143283/2bde559e-997c-42fd-abab-d4ef61287836" alt="Screenshot" width="300" height="600">
+</div>
 
 ## Features
 
