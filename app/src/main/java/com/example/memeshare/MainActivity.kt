@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         var progroesbar: ProgressBar =findViewById(R.id.progressBar)
         progroesbar.visibility=View.VISIBLE
         val queue = Volley.newRequestQueue(this)
-         var url = "https://meme-api.com/gimme"
+         var url = "https://meme-api.com/gimme/dank"
         // Request a string response from the provided URL.
         val jsonObjectRequest = JsonObjectRequest(Request.Method.GET, url, null,
             { response ->
