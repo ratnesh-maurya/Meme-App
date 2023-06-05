@@ -19,9 +19,10 @@ import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
+import com.example.memeshare.R
 
 
-class MainActivity : AppCompatActivity() {
+class MainActivity: AppCompatActivity() {
     var currentimage: String?=null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

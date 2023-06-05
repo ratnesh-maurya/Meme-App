@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
     tools:context=".MainActivity">
 
     <ImageView
@@ -45,7 +46,8 @@
         app:layout_constraintStart_toEndOf="@id/guideline"
         app:layout_constraintEnd_toEndOf="@id/memeimage"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:onClick="nextmeme" />
+        android:onClick="nextmeme"
+        />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
